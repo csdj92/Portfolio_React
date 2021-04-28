@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/Portfolio_React/static/js/main.381643a1.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.381643a1.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.6ab4a560.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.6ab4a560.js.map",
+    "static/css/2.b9271814.chunk.css": "/Portfolio_React/static/css/2.b9271814.chunk.css",
+    "static/js/2.a6f297c7.chunk.js": "/Portfolio_React/static/js/2.a6f297c7.chunk.js",
+    "static/js/2.a6f297c7.chunk.js.map": "/Portfolio_React/static/js/2.a6f297c7.chunk.js.map",
+    "index.html": "/Portfolio_React/index.html",
+    "static/css/2.b9271814.chunk.css.map": "/Portfolio_React/static/css/2.b9271814.chunk.css.map",
+    "static/js/2.a6f297c7.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.a6f297c7.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/Portfolio_React/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/Portfolio_React/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/Project_Resume.faf1abd6.pdf": "/Portfolio_React/static/media/Project_Resume.faf1abd6.pdf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/Portfolio_React/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/about-page-img.105884f4.jpg": "/Portfolio_React/static/media/about-page-img.105884f4.jpg",
+    "static/media/about-sec-img.441eb59c.jpg": "/Portfolio_React/static/media/about-sec-img.441eb59c.jpg",
+    "static/media/bestbuy.f727bc34.jpeg": "/Portfolio_React/static/media/bestbuy.f727bc34.jpeg",
+    "static/media/hero.0e20f9bb.jpg": "/Portfolio_React/static/media/hero.0e20f9bb.jpg",
+    "static/media/nationalpark.e400fad0.jpeg": "/Portfolio_React/static/media/nationalpark.e400fad0.jpeg",
+    "static/media/scroll-down-arrow.9d419098.svg": "/Portfolio_React/static/media/scroll-down-arrow.9d419098.svg",
+    "static/media/social-media-arrow.bf263fc4.svg": "/Portfolio_React/static/media/social-media-arrow.bf263fc4.svg",
+    "static/media/yourhome.4d63228f.jpeg": "/Portfolio_React/static/media/yourhome.4d63228f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab4a560.js",
+    "static/css/2.b9271814.chunk.css",
+    "static/js/2.a6f297c7.chunk.js",
+    "static/js/main.381643a1.chunk.js"
+  ]
+}
