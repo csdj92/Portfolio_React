@@ -109,11 +109,11 @@ export default function AboutSection() {
             heading="About Me"
           />
           <PText>
-            loremipsum dolor sit amet, consectetur
+          In my free time I enjoy kayaking, hiking, visiting with family and friends.
           </PText>
           <div className="aboutSection__buttons">
             <Button btnText="Works" btnLink="/projects" />
-            <Button btnText="Read More" btnLink={Resume} outline />
+            <Button btnText="Read More" btnLink="/about" outline />
           </div>
         </div>
         <div className="aboutSection__right">
